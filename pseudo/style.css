@@ -1,0 +1,12 @@
+a:default {
+	background:red;
+
+}
+
+a:active {
+	background:yellow;
+}
+
+a:hover {
+	background:blue;
+}
