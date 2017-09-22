@@ -1,0 +1,30 @@
+h1 {
+	font-family: 'Encode Sans Expanded', sans-serif;
+	font-size:300%;
+
+}
+
+h2 {
+	font-weight:1100%;
+	font-size:200%;
+}
+
+h3 {
+	font-family: 'Indie Flower', cursive;
+}
+
+h4 {
+	font-family: 'Permanent Marker', cursive;
+
+}
+
+h5:hover {
+	
+    color: #ff0000;
+}
+
+h5:active {
+  background-color: gold;
+	
+
+}
